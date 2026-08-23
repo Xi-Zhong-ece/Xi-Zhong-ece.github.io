@@ -1,21 +1,20 @@
-_site
-.bundle
-.DS_store
-.idea
-.jekyll-cache
-.jekyll-metadata
-.ruby-version
-.sass-cache
-.tweet-cache
-.venv
-assets/libs/
-assets/rendercv/rendercv_output/*.typ
-al-folio-upgrade-report.md
-node_modules/
-output/playwright/
-test-results/
-vendor
+# 旧 al-folio 遗留文件：仍在本地磁盘上，但不再纳入仓库。
+# 等新站点确认没问题，可以在访达里手动删掉它们，然后清空这个文件。
+/.github/
+/DEPLOY.md
+/Gemfile
+/Gemfile.lock
+/LICENSE
+/_bibliography/
+/_config.yml
+/_data/
+/_news/
+/_pages/
+/_teachings/
+/package.json
+/package-lock.json
+/purgecss.config.js
+/robots.txt
 
-# Python bytecode from bin/ helper scripts
-__pycache__/
-*.pyc
+# 系统文件
+.DS_Store
