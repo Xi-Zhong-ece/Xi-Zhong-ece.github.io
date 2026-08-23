@@ -1,0 +1,30 @@
+"ISIT":
+  url: https://www.itsoc.org/conferences
+  color: "#00369f"
+
+"ITW":
+  url: https://www.itsoc.org/conferences
+  color: "#1f5fbf"
+
+"ICC":
+  url: https://www.comsoc.org/conferences-events
+  color: "#007a5e"
+
+"TIT":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18
+  color: "#8a1c1c"
+
+"TCOM":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26
+  color: "#b35900"
+
+"CL":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234
+  color: "#5c3d99"
+
+"Access":
+  url: https://ieeeaccess.ieee.org/
+  color: "#555555"
+
+"Manuscript":
+  color: "#888888"
