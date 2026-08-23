@@ -1,15 +1,30 @@
-# Xi Zhong — Academic Homepage
+# Xi Zhong Academic Homepage
 
-Source for **https://xi-zhong-ece.github.io**, built with the [al-folio](https://github.com/alshedivat/al-folio) academic website theme.
+This repository is a customized **al-folio v1.x** academic homepage for:
 
-Key files:
+**Xi Zhong**  
+Ph.D. Candidate, Electrical and Computer Engineering  
+University of Florida
 
-- `_pages/about.md` — homepage biography
-- `_pages/research.md` — research overview
-- `_bibliography/papers.bib` — publication list
-- `_news/` — homepage announcements
-- `_data/socials.yml` — CV / email / Scholar / GitHub / ORCID links
-- `assets/img/prof_pic.jpg` — profile photo
-- `assets/pdf/Xi_Zhong_CV.pdf` — CV
+Website: https://xi-zhong-ece.github.io
 
-See `DEPLOYMENT_INSTRUCTIONS.md` before the first deployment.
+## Deployment
+
+The repository is intended to use the `main` branch for source files and the automatically generated `gh-pages` branch for the published website.
+
+1. Upload **all files and folders in this package** to the root of the `main` branch.
+2. In GitHub: **Settings → Actions → General → Workflow permissions → Read and write permissions**.
+3. Commit/push the files and wait for **Actions → Deploy site** to finish successfully.
+4. In **Settings → Pages**, choose **Deploy from a branch**, select `gh-pages`, and select `/(root)`.
+
+Do not manually edit the `gh-pages` branch.
+
+## Main files to edit later
+
+- `_pages/about.md`
+- `_pages/research.md`
+- `_bibliography/papers.bib`
+- `_news/`
+- `_data/socials.yml`
+- `assets/pdf/Xi_Zhong_CV.pdf`
+- `assets/img/prof_pic.jpg`
